@@ -1,0 +1,9 @@
+Imagenes_Originales/
+Anotaciones/
+*.mha
+*.zip
+*.7z
+__pycache__/
+.ipynb_checkpoints/
+*.pth
+.vscode/
