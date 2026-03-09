@@ -31,3 +31,6 @@ conda activate LUNA25
 
 # Instalar dependencias
 pip install torch monai[all] simpleitk pandas matplotlib scikit-learn zenodo-get
+
+### Análisis Preliminar de Datos
+![Distribución de Malignidad](results/distribucion_malignidad.png)
